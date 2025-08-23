@@ -53,6 +53,9 @@ This project acts as my digital journal to:
 ---
 
 ## 🧠 How to Use This Repo
+Clone the repository:
+
+git clone https://github.com/ghanashyambudhathoki01/Dart-and-Flutter.git
 
 Each folder represents a **lesson, example, or project**.  
 

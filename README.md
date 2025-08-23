@@ -1,8 +1,9 @@
 # 🚀 My Dart & Flutter Learning Journey
 
-[![Dart](https://img.shields.io/badge/Dart-Basics%20Completed-blue?style=flat-square&logo=dart)](https://dart.dev/) 
-[![Flutter](https://img.shields.io/badge/Flutter-UI%20Learning-02569B?style=flat-square&logo=flutter)](https://flutter.dev/) 
-[![Status](https://img.shields.io/badge/Status-Ongoing-green?style=flat-square)]()
+[![Dart](https://img.shields.io/badge/Dart-Basics%20Ongoing-orange?style=flat-square&logo=dart)](https://dart.dev/) 
+[![Flutter](https://img.shields.io/badge/Flutter-UI%20Waiting-orange?style=flat-square&logo=flutter)](https://flutter.dev/) 
+[![Status](https://img.shields.io/badge/Status-Pending-orange?style=flat-square)]()
+
 
 Welcome to my personal **Dart & Flutter Learning Journey** repository!  
 This is where I document my progress as I explore **Dart programming** and the **Flutter framework** to build cross-platform apps for mobile, web, and desktop.

@@ -1,0 +1,18 @@
+import "dart:io";
+
+void main() {
+  // Converting text (String)  number (int)
+  int numPrint = int.parse("6");
+
+  // Converting number (int)  text (String)
+  String textPrint = 6.toString();
+
+  print("Text to number: $numPrint");
+  print(numPrint.runtimeType);   // shows the data type
+
+  print("Number to text: $textPrint");
+  print(textPrint.runtimeType);  // shows the data type
+}
+//int.parse() = turn text into a number.
+
+//.toString() = turn number into text.

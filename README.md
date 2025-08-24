@@ -66,7 +66,6 @@ Aspiring Full Stack & Mobile App Developer | Computer Educator | Creative Design
 📚 Passionate about building apps that are logical, beautiful, and impactful.
 Helping others understand tech through creativity and simplicity.</strong>
 
-<h3>📜 License <br>
+<h4>📜 License <br>
 This project is for educational and inspirational purposes.
-Feel free to fork it, learn from it, and make your own journey—just remember to give credit! ✨</h3>
-
+Feel free to fork it, learn from it, and make your own journey—just remember to give credit! ✨</h4>

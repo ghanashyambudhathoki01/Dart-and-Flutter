@@ -24,7 +24,8 @@ This project acts as my digital journal to:
 ## ✨ Skills I'm Building
 
 ### Dart Topics Covered (learning)
-- Variables and Data Types (`int`, `double`, `String`, `bool`, `num`)  
+- Variables and Data Types (`int`, `double`, `String`, `bool`, `num`)
+- Strings  
 - Type Conversion (`toString()`, `int.parse()`)  
 - Operators and Expressions  
 - Conditional Statements (`if`, `else`, `switch`)  

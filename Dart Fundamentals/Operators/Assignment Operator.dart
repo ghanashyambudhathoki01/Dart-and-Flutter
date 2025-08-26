@@ -3,7 +3,7 @@
 //  =           Simple        a=5            
 // +=           Add and asign a+=2           
 // -=            Subtract      a -=2              
-// *            Multiply      a*2=2             
+// *=            Multiply      a*2=2             
 // /=           Divide and   a/= 2          
             
 // Simple Addition example :  
@@ -14,3 +14,4 @@ void main (){
   print (a+= b);
 
 }
+

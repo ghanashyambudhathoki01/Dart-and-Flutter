@@ -37,7 +37,7 @@ This project acts as my digital journal to:
 - Error Handling (`try`, `catch`, `finally`)  
 - Asynchronous Programming (`Future`, `async`, `await`)  
 
-### Flutter Topics Covered (learning)
+### Flutter Topics Covered (Waiting)
 - Flutter Setup and Project Structure  
 - Widgets (Stateless vs Stateful)  
 - Layouts (Column, Row, Stack, GridView)  

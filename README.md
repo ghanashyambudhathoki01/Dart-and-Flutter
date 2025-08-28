@@ -32,7 +32,7 @@ This project acts as my digital journal to:
 - Loops (`for`, `while`, `do-while`)  
 - Functions and Parameters  
 - Classes and Objects  
-- Null Safety (`?`, `!`, `late`)  
+- Null Safety (`?`, `!`)  
 - Collections (`List`, `Set`, `Map`)  
 - Error Handling (`try`, `catch`, `finally`)  
 - Asynchronous Programming (`Future`, `async`, `await`)  

@@ -30,7 +30,8 @@ This project acts as my digital journal to:
 - Operators and Expressions  
 - Conditional Statements (`if`, `else`, `switch`)  
 - Loops (`for`, `while`, `do-while`)  
-- Functions and Parameters  
+- Functions and Parameters
+- OOP (`Inheritence`, `Abstraction`,`Encapuslution`, `Polymorphism`  
 - Classes and Objects  
 - Null Safety (`?`, `!`)  
 - Collections (`List`, `Set`, `Map`)  

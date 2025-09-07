@@ -69,7 +69,7 @@ Aspiring Full Stack & Mobile App Developer | Computer Educator | Creative Design
 📚 Passionate about building apps that are logical, beautiful, and impactful.
 Helping others understand tech through creativity and simplicity.</strong>
 
-<a href="https://www.notion.so/266c3cb5e1a6819e85b9f86caf084bbe" target="_blank">To gain more insight, read this note.</a>
+<a href="https://www.notion.so/266c3cb5e1a6819e85b9f86caf084bbe" target="_blank">To gain more insight, read this dart note.</a>
 
 
 <h4>📜 License <br>

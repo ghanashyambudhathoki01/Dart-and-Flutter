@@ -31,8 +31,7 @@ This project acts as my digital journal to:
 - Conditional Statements (`if`, `else`, `switch`)  
 - Loops (`for`, `while`, `do-while`)  
 - Functions and Parameters
-- OOP (`Inheritence`, `Abstraction`,`Encapuslution`, `Polymorphism`)
--  (`Mixin`,`Constructor`, `Creating Classes`)    
+- OOP (`Inheritence`, `Abstraction`,`Encapuslution`, `Polymorphism`)    
 ### Flutter Topics Covered (Learning)
 - Flutter Setup and Project Structure  
 - Widgets (Stateless vs Stateful)  

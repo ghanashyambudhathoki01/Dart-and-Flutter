@@ -49,8 +49,26 @@ This project acts as my digital journal to:
 - State Management (basic `setState`)  
 - Using Packages and Plugins  
 - Building Real Mobile UI  
-- Connecting to APIs  
-
+- Connecting to APIs
+- Animation library classes
+- Stateful widgets for animation
+- The ticker provider
+- Tweens with curves
+- Nature of animation
+- Observing the use interaction
+- Tween ranges
+- Working with widget rotation
+- Box animation
+- Animated builder
+- Extra Stuffs with Flutter
+- Social Login (Google and Facebook)
+- Firebase Notifications
+- Local Notifications
+- Form Validation with Flutter
+- Form validation
+- Global key referencing
+- Retrieving form values
+- Submitting the form
 > 🧪 *New topics will be added as I keep learning.*  
 
 ---

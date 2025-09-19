@@ -23,7 +23,7 @@ This project acts as my digital journal to:
 
 ## ✨ Skills I'm Building
 
-### Dart Topics Covered (learning)
+### Dart Topics Covered 
 - Variables and Data Types (`int`, `double`, `String`, `bool`, `num`)
 - Strings  
 - Type Conversion (`toString()`, `int.parse()`)  
@@ -39,7 +39,7 @@ This project acts as my digital journal to:
 - Error Handling (`try`, `catch`, `finally`)  
 - Asynchronous Programming (`Future`, `async`, `await`)  
 
-### Flutter Topics Covered (Waiting)
+### Flutter Topics Covered (Learning)
 - Flutter Setup and Project Structure  
 - Widgets (Stateless vs Stateful)  
 - Layouts (Column, Row, Stack, GridView)  

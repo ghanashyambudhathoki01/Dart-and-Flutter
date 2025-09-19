@@ -33,12 +33,6 @@ This project acts as my digital journal to:
 - Functions and Parameters
 - OOP (`Inheritence`, `Abstraction`,`Encapuslution`, `Polymorphism`)
 -  (`Mixin`,`Constructor`, `Creating Classes`)    
-- Classes and Objects  
-- Null Safety (`?`, `!`)  
-- Collections (`List`, `Set`, `Map`)  
-- Error Handling (`try`, `catch`, `finally`)  
-- Asynchronous Programming (`Future`, `async`, `await`)  
-
 ### Flutter Topics Covered (Learning)
 - Flutter Setup and Project Structure  
 - Widgets (Stateless vs Stateful)  

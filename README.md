@@ -23,7 +23,7 @@ This project acts as my digital journal to:
 
 ## ✨ Skills I'm Building
 
-###✅Dart Topics Covered 
+### ✅Dart Topics Covered 
 - Variables and Data Types (`int`, `double`, `String`, `bool`, `num`)
 - Strings  
 - Type Conversion (`toString()`, `int.parse()`)  

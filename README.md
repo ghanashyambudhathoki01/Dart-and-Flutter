@@ -35,7 +35,6 @@ This project acts as my digital journal to:
 - Switch Case
 - Final and Const
 - Parameters
--  
 ### Flutter Topics Covered (Learning)
 - Flutter Setup and Project Structure  
 - Widgets (Stateless vs Stateful)  
